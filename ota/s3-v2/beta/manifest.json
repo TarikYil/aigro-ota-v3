@@ -1,0 +1,7 @@
+{
+  "version": "3.0.0-beta.2",
+  "url": "https://raw.githubusercontent.com/TarikYil/aigro-ota-v3/main/ota/s3-v2/beta/3.0.0-beta.2/AIgro_Firmware.bin",
+  "sha256": "6001a7d0211d208de10f3281e3b4b27d79190d3084ad7472d557b013d4d91651",
+  "channel": "beta",
+  "board": "s3-v2"
+}
